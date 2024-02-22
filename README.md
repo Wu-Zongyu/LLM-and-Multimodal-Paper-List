@@ -52,5 +52,7 @@ A paper list about large language models and vision-language models. **Note:** I
 ---
 
 ## Useful-Resource
-
+- LLaMA Factory. https://github.com/hiyouga/LLaMA-Factory
+- DeepSpeed. https://github.com/microsoft/DeepSpeed
+- trlx. https://github.com/CarperAI/trlx
 
