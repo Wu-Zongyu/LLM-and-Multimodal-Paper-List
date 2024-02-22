@@ -1,5 +1,5 @@
 # LLM-and-VLM-Paper-List
-A paper list about large language models and vision-language models. **Note:** It only records papers for personal needs. It is welcome to open an issue if you think I missed some important and exciting work
+A paper list about large language models and multi-modal models. **Note:** It only records papers for personal needs. It is welcome to open an issue if you think I missed some important and exciting work
 
 ## Table of Contents
 
@@ -8,14 +8,17 @@ A paper list about large language models and vision-language models. **Note:** I
   - [Foundation LLM Models](#foundation-llm-models)
   - [Reinforcement Learning from Human Feedback (RLHF)](#rlhf)
   - [Parameter Efficient Fine-tuning](#parameter-efficient-fine-tuning)
-  - [Medical LLM](#medical-llm)
+  - [Healthcare LLM](#medical-llm)
   - [Watermarking LLM](#watermarking-llm)
-- [VLM](#vlm)
+- [Multi-Modal Models](#multi-modal-models)
+  - [Foundation Multi-Modal Models](#foundation-multi-modal-models)
 - [Useful Resource](#useful-resource)
 
 ## Survey
 - HELM: **Holistic evaluation of language models**. Arxiv'2022. [paper](https://arxiv.org/abs/2211.09110)
 - Eval Survey: **A Survey on Evaluation of Large Language Models**. Arxiv'2023. [paper](https://arxiv.org/abs/2307.03109)
+- Healthcare LM Survey: **A Survey of Large Language Models for Healthcare: from Data, Technology, and Applications to Accountability and Ethics**. Arxiv'2023. [paper](https://arxiv.org/abs/2310.05694)
+- VLM for vision Task Survey: **Vision Language Models for Vision Tasks: A Survey**. Arxiv'2023. [paper](https://arxiv.org/abs/2304.00685)
 ---
 
 ## LLM
@@ -48,7 +51,15 @@ A paper list about large language models and vision-language models. **Note:** I
 ### Watermarking LLM
 ---
 
-## VLM
+## Multi-modal Models
+### Foundation Multi-Modal Models
+- CLIP: **Learning Transferable Visual Models From Natural Language Supervision**. ICML'2021. [paper](https://arxiv.org/abs/2103.00020)
+- DeCLIP: **Supervision Exists Everywhere: A Data Efficient Contrastive Language-Image Pre-training Paradigm**. ICLR'2022. [paper](https://arxiv.org/abs/2110.05208)
+- FILIP: **FILIP: Fine-grained Interactive Language-Image Pre-Training**. ICLR'2022. [paper](https://arxiv.org/abs/2111.07783)
+- Stable Diffusion: **High-Resolution Image Synthesis with Latent Diffusion Models**. CVPR'2022. [paper](https://arxiv.org/abs/2112.10752)
+- LLaVA: **Visual Instruction Tuning**. NeurIPS'2022. [paper](https://arxiv.org/abs/2304.08485)
+- BLIP: **BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation**. ICML'2022. [paper](https://arxiv.org/abs/2201.12086)
+- BLIP2: **BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models**. ICML'2023. [paper](https://arxiv.org/abs/2301.12597)
 
 ---
 
