@@ -8,7 +8,7 @@ A paper list about large language models and multi-modal models. **Note:** It on
   - [Foundation LLM Models](#foundation-llm-models)
   - [Reinforcement Learning from Human Feedback (RLHF)](#rlhf)
   - [Parameter Efficient Fine-tuning](#parameter-efficient-fine-tuning)
-  - [Healthcare LLM](#medical-llm)
+  - [Healthcare LLM](#healthcare-llm)
   - [Watermarking LLM](#watermarking-llm)
 - [Multi-Modal Models](#multi-modal-models)
   - [Foundation Multi-Modal Models](#foundation-multi-modal-models)
@@ -38,6 +38,11 @@ A paper list about large language models and multi-modal models. **Note:** It on
 - GPT-4: **GPT-4 Technical Report**. Arxiv'2023. [paper]([http://arxiv.org/abs/2303.08774v2](https://arxiv.org/abs/2303.08774v4))
 - PaLM 2: **PaLM 2 Technical Report**. 2023. [paper](https://arxiv.org/abs/2305.10403)
 - LLaMA 2: **Llama 2: Open foundation and fine-tuned chat models**. Arxiv'2023. [paper](https://arxiv.org/abs/2307.09288)
+- Mistral: **Mistral 7B**. Arxiv'2023. [paper](https://arxiv.org/abs/2310.06825)
+- Phi1: [link](https://huggingface.co/microsoft/phi-1)
+- Phi1.5: [Project Link](https://huggingface.co/microsoft/phi-1_5)
+- Phi2: [Project Link](https://huggingface.co/microsoft/phi-2)
+- Falcon: [Project Link](https://huggingface.co/tiiuae)
 ### RLHF 
 - PPO: **Proximal Policy Optimization Algorithms**. Arxiv'2017. [paper](https://arxiv.org/abs/1707.06347)
 - DPO: **Direct Preference Optimization: Your Language Model is Secretly a Reward Model**. NeurIPS'2023. [paper](https://arxiv.org/abs/2305.18290)
@@ -47,7 +52,8 @@ A paper list about large language models and multi-modal models. **Note:** It on
 - P-tuning: **P-Tuning: Prompt Tuning Can Be Comparable to Fine-tuning Across Scales and Tasks**. ACL'2022. [paper](https://aclanthology.org/2022.acl-short.8/)
 - P-tuning v2: **P-Tuning v2: Prompt Tuning Can Be Comparable to Fine-tuning Universally Across Scales and Tasks**. Arxiv'2022. [Paper](https://arxiv.org/abs/2110.07602)
 - Q-LoRA: **QLoRA: Efficient Finetuning of Quantized LLMs**. NeurIPS'2023. [paper](https://arxiv.org/abs/2305.14314)
-### Medical LLM
+### Healthcare LLM
+- 
 ### Watermarking LLM
 ---
 
