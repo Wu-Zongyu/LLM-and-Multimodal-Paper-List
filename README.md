@@ -17,8 +17,13 @@ A paper list about large language models and multi-modal models. **Note:** It on
 ## Survey
 - HELM: **Holistic evaluation of language models**. Arxiv'2022. [paper](https://arxiv.org/abs/2211.09110)
 - Eval Survey: **A Survey on Evaluation of Large Language Models**. Arxiv'2023. [paper](https://arxiv.org/abs/2307.03109)
-- Healthcare LM Survey: **A Survey of Large Language Models for Healthcare: from Data, Technology, and Applications to Accountability and Ethics**. Arxiv'2023. [paper](https://arxiv.org/abs/2310.05694)
-- VLM for vision Task Survey: **Vision Language Models for Vision Tasks: A Survey**. Arxiv'2023. [paper](https://arxiv.org/abs/2304.00685)
+- Healthcare LM Survey: **A Survey of Large Language Models for Healthcare: from Data, Technology, and Applications to Accountability and Ethics**. Arxiv'2023. [paper](https://arxiv.org/abs/2310.05694), [github](https://github.com/KaiHe-better/LLM-for-Healthcare)
+- Multimodal LLM Survey: **A Survey on Multimodal Large Language Model**. Arxiv'2023. [paper](https://arxiv.org/pdf/2306.13549.pdf), [github](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
+- VLM for vision Task Survey: **Vision Language Models for Vision Tasks: A Survey**. Arxiv'2023. [paper](https://arxiv.org/abs/2304.00685), [github](https://github.com/jingyi0000/VLM_survey)
+- Efficient LLM Survey: **Efficient Large Language Models: A Survey**. Arxiv'2023. [paper](https://arxiv.org/abs/2312.03863), [github](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey)
+- Prompt Engineering in LLM Survey: **A Systematic Survey of Prompt Engineering in Large Language Models: Techniques and Applications**. Arxiv'2024. [paper](https://arxiv.org/abs/2402.07927)
+- Multimodal Safety Survey: **Safety of Multimodal Large Language Models on Images and Text**. Arxiv'2024. [paper](https://arxiv.org/abs/2402.00357)
+- Multimodal LLM Recent Survey: **MM-LLMs: Recent Advances in MultiModal Large Language Models**. Arxiv'2024. [paper](https://arxiv.org/abs/2401.13601)
 ---
 
 ## LLM
