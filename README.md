@@ -5,7 +5,7 @@ A paper list about large language models and multi-modal models.
 ## Table of Contents
 
 - [Survey](#survey)
-- [LLM](llm)
+- [Language Model](language-model)
   - [Foundation LLM Models](#foundation-llm-models)
   - [Reinforcement Learning from Human Feedback (RLHF)](#rlhf)
   - [Parameter Efficient Fine-tuning](#parameter-efficient-fine-tuning)
@@ -13,6 +13,7 @@ A paper list about large language models and multi-modal models.
   - [Watermarking LLM](#watermarking-llm)
 - [Multi-Modal Models](#multi-modal-models)
   - [Foundation Multi-Modal Models](#foundation-multi-modal-models)
+- [Agent](#agent)
 - [Useful Resource](#useful-resource)
 
 ## Survey
@@ -28,8 +29,8 @@ A paper list about large language models and multi-modal models.
 - Prompt Engineering in LLM Survey: **A Systematic Survey of Prompt Engineering in Large Language Models: Techniques and Applications**. Arxiv'2024. [paper](https://arxiv.org/abs/2402.07927)
 ---
 
-## LLM
-### Foundation LLM Models
+## Language Model
+### Foundation LM Models
 - Transformer: **Attention Is All You Need**. NIPS'2017. [paper](https://arxiv.org/abs/1706.03762)
 - GPT-1: **Improving Language Understanding by Generative Pre-Training**. 2018. [paper](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
 - BERT: **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding**. NAACL'2019. [paper](https://aclanthology.org/N19-1423.pdf)
@@ -97,6 +98,9 @@ A paper list about large language models and multi-modal models.
 
 ---
 
+## Agent
+
+---
 ## Useful-Resource
 - LLaMA Factory. https://github.com/hiyouga/LLaMA-Factory
 - DeepSpeed. https://github.com/microsoft/DeepSpeed
