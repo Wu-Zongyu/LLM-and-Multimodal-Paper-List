@@ -60,11 +60,26 @@ A paper list about large language models and multi-modal models. **Note:** It on
 - P-tuning v2: **P-Tuning v2: Prompt Tuning Can Be Comparable to Fine-tuning Universally Across Scales and Tasks**. Arxiv'2022. [Paper](https://arxiv.org/abs/2110.07602)
 - Q-LoRA: **QLoRA: Efficient Finetuning of Quantized LLMs**. NeurIPS'2023. [paper](https://arxiv.org/abs/2305.14314)
 ### Healthcare LLM
-- 
+- Med-PaLM: **Large Language Models Encode Clinical Knowledge**. Arxiv'2022. [paper](https://arxiv.org/abs/2212.13138)
+- MedAlpaca: **MedAlpaca -- An Open-Source Collection of Medical Conversational AI Models and Training Data**. Arxiv'2023. [paper](https://arxiv.org/abs/2304.08247)
+- Med-PaLM 2: **Towards Expert-Level Medical Question Answering with Large Language Models**. Arxiv'2023. [paper](https://arxiv.org/abs/2305.09617)
+- HuatuoGPT: **HuatuoGPT, towards Taming Language Model to Be a Doctor**. EMNLP'2023(findings). [paper](https://arxiv.org/abs/2305.15075)
+- GPT-4-Med: **Capabilities of GPT-4 on Medical Challenge Problems**. Arxiv'2023. [paper](https://arxiv.org/abs/2303.13375)
 ### Watermarking LLM
 
 ### Prompt Engineering in LLM
+#### Hard Prompt
+- PET: **Exploiting Cloze Questions for Few Shot Text Classification and Natural Language Inference**. EACL'2021. [paper](https://arxiv.org/abs/2001.07676)
+- **Making Pre-trained Language Models Better Few-shot Learners**. ACL'2021. [paper](https://arxiv.org/abs/2012.15723)
+#### Soft Prompt
+- Prompt-Tuning:**The Power of Scale for Parameter-Efficient Prompt Tuning**. EMNLP'2021 [paper]
+- Prefix-Tuning: **Prefix-Tuning: Optimizing Continuous Prompts for Generation**. ACL'2021. [paper](https://arxiv.org/abs/2101.00190)
+#### Between Soft and Hard
+- Auto-Prompt: **AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts**. EMNLP'2020. [paper](https://arxiv.org/abs/2010.15980)
+- FluentPrompt: **Toward Human Readable Prompt Tuning: Kubrick's The Shining is a good movie, and a good prompt too?**. EMNLP'2023 (findings). [paper](https://arxiv.org/abs/2212.10539)
+- PEZ: **Hard prompts made easy: Gradient-based discrete optimization for prompt tuning and discovery**. Arxiv'2023. [paper](https://arxiv.org/abs/2302.03668)
 ---
+
 
 ## Multi-modal Models
 ### Foundation Multi-Modal Models
