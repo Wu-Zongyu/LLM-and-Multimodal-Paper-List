@@ -58,7 +58,7 @@ A paper list about large language models and multi-modal models.
 ### Parameter Efficient Fine-tuning
 - LoRA: **LoRA: Low-Rank Adaptation of Large Language Models**. Arxiv'2021. [paper](https://arxiv.org/abs/2106.09685)
 - Q-LoRA: **QLoRA: Efficient Finetuning of Quantized LLMs**. NeurIPS'2023. [paper](https://arxiv.org/abs/2305.14314)
-### Healthcare LLM
+### Healthcare LM
 - Med-PaLM: **Large Language Models Encode Clinical Knowledge**. Arxiv'2022. [paper](https://arxiv.org/abs/2212.13138)
 - MedAlpaca: **MedAlpaca -- An Open-Source Collection of Medical Conversational AI Models and Training Data**. Arxiv'2023. [paper](https://arxiv.org/abs/2304.08247)
 - Med-PaLM 2: **Towards Expert-Level Medical Question Answering with Large Language Models**. Arxiv'2023. [paper](https://arxiv.org/abs/2305.09617)
