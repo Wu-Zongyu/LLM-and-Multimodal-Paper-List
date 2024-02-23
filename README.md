@@ -1,5 +1,6 @@
 # LLM-and-VLM-Paper-List
-A paper list about large language models and multi-modal models. **Note:** It only records papers for personal needs. It is welcome to open an issue if you think I missed some important and exciting work
+A paper list about large language models and multi-modal models.    
+**Note:** It only records papers for my personal needs. It is welcome to open an issue if you think I missed some important or exciting work!
 
 ## Table of Contents
 
