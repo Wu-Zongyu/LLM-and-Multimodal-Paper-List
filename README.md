@@ -55,9 +55,6 @@ A paper list about large language models and multi-modal models. **Note:** It on
 - DPO: **Direct Preference Optimization: Your Language Model is Secretly a Reward Model**. NeurIPS'2023. [paper](https://arxiv.org/abs/2305.18290)
 ### Parameter Efficient Fine-tuning
 - LoRA: **LoRA: Low-Rank Adaptation of Large Language Models**. Arxiv'2021. [paper](https://arxiv.org/abs/2106.09685)
-- Prefix-Tuning: **Prefix-Tuning: Optimizing Continuous Prompts for Generation**. ACL'2021. [paper](https://aclanthology.org/2021.acl-long.353/)
-- P-tuning: **P-Tuning: Prompt Tuning Can Be Comparable to Fine-tuning Across Scales and Tasks**. ACL'2022. [paper](https://aclanthology.org/2022.acl-short.8/)
-- P-tuning v2: **P-Tuning v2: Prompt Tuning Can Be Comparable to Fine-tuning Universally Across Scales and Tasks**. Arxiv'2022. [Paper](https://arxiv.org/abs/2110.07602)
 - Q-LoRA: **QLoRA: Efficient Finetuning of Quantized LLMs**. NeurIPS'2023. [paper](https://arxiv.org/abs/2305.14314)
 ### Healthcare LLM
 - Med-PaLM: **Large Language Models Encode Clinical Knowledge**. Arxiv'2022. [paper](https://arxiv.org/abs/2212.13138)
@@ -74,6 +71,8 @@ A paper list about large language models and multi-modal models. **Note:** It on
 #### Soft Prompt
 - Prompt-Tuning:**The Power of Scale for Parameter-Efficient Prompt Tuning**. EMNLP'2021 [paper]
 - Prefix-Tuning: **Prefix-Tuning: Optimizing Continuous Prompts for Generation**. ACL'2021. [paper](https://arxiv.org/abs/2101.00190)
+- P-tuning: **P-Tuning: Prompt Tuning Can Be Comparable to Fine-tuning Across Scales and Tasks**. ACL'2022. [paper](https://aclanthology.org/2022.acl-short.8/)
+- P-tuning v2: **P-Tuning v2: Prompt Tuning Can Be Comparable to Fine-tuning Universally Across Scales and Tasks**. Arxiv'2022. [Paper](https://arxiv.org/abs/2110.07602)
 #### Between Soft and Hard
 - Auto-Prompt: **AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts**. EMNLP'2020. [paper](https://arxiv.org/abs/2010.15980)
 - FluentPrompt: **Toward Human Readable Prompt Tuning: Kubrick's The Shining is a good movie, and a good prompt too?**. EMNLP'2023 (findings). [paper](https://arxiv.org/abs/2212.10539)
