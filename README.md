@@ -18,6 +18,7 @@ A paper list about large language models and multi-modal models.
 
 ## Survey
 - HELM: **Holistic evaluation of language models**. Arxiv'2022. [paper](https://arxiv.org/abs/2211.09110)
+- HELM T2I: **Holistic Evaluation of Text-to-Image Models**. NeurIPS'2023. [paper](https://arxiv.org/abs/2311.04287)
 - Eval Survey: **A Survey on Evaluation of Large Language Models**. Arxiv'2023. [paper](https://arxiv.org/abs/2307.03109)
 - Healthcare LM Survey: **A Survey of Large Language Models for Healthcare: from Data, Technology, and Applications to Accountability and Ethics**. Arxiv'2023. [paper](https://arxiv.org/abs/2310.05694), [github](https://github.com/KaiHe-better/LLM-for-Healthcare)
 - Multimodal LLM Survey: **A Survey on Multimodal Large Language Model**. Arxiv'2023. [paper](https://arxiv.org/pdf/2306.13549.pdf), [github](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
