@@ -103,6 +103,7 @@ A paper list about large language models and multi-modal models.
 
 ---
 ## Useful-Resource
+- Hugging Face course. https://huggingface.co/learn
 - LLaMA Factory. https://github.com/hiyouga/LLaMA-Factory
 - DeepSpeed. https://github.com/microsoft/DeepSpeed
 - trlx. https://github.com/CarperAI/trlx
