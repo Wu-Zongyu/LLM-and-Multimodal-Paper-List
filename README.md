@@ -29,6 +29,7 @@ A paper list about large language models and multi-modal models.
 - Multimodal LLM Recent Survey: **MM-LLMs: Recent Advances in MultiModal Large Language Models**. Arxiv'2024. [paper](https://arxiv.org/abs/2401.13601)
 - Prompt Engineering in LLM Survey: **A Systematic Survey of Prompt Engineering in Large Language Models: Techniques and Applications**. Arxiv'2024. [paper](https://arxiv.org/abs/2402.07927)
 - LLM Security and Privacy Survey: **A Survey on Large Language Model (LLM) Security and Privacy: The Good, the Bad, and the Ugly**. Arxiv'2024. [paper](https://arxiv.org/abs/2312.02003)
+- LLM Privacy Survey: **Privacy in Large Language Models: Attacks, Defenses and Future Directions**. Arxiv'2023. [paper](https://arxiv.org/abs/2310.10383)
 ---
 
 ## Language Model
