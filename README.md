@@ -9,7 +9,7 @@ A paper list about large language models and multi-modal models.
   - [Foundation LM Models](#foundation-lm-models)
   - [Reinforcement Learning from Human Feedback (RLHF)](#rlhf)
   - [Parameter Efficient Fine-tuning](#parameter-efficient-fine-tuning)
-  - [Healthcare LLM](#healthcare-llm)
+  - [Healthcare LLM](#healthcare-lm)
   - [Watermarking LLM](#watermarking-llm)
 - [Multi-Modal Models](#multi-modal-models)
   - [Foundation Multi-Modal Models](#foundation-multi-modal-models)
