@@ -96,6 +96,7 @@ A paper list about large language models and multi-modal models.
 - Stable Diffusion: **High-Resolution Image Synthesis with Latent Diffusion Models**. CVPR'2022. [paper](https://arxiv.org/abs/2112.10752)
 - BLIP: **BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation**. ICML'2022. [paper](https://arxiv.org/abs/2201.12086)
 - BLIP2: **BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models**. ICML'2023. [paper](https://arxiv.org/abs/2301.12597)
+- LLaMA-Adapter: **LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention**. Arxiv'2023. [paper](https://arxiv.org/abs/2303.16199)
 - LLaVA: **Visual Instruction Tuning**. NeurIPS'2023. [paper](https://arxiv.org/abs/2304.08485)
 - Instruct BLIP: **InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning**. NeurIPS'2023. [paper](https://arxiv.org/abs/2305.06500)
 ### Multi-modal Safety
