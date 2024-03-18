@@ -13,6 +13,9 @@ A paper list about large language models and multi-modal models.
   - [Watermarking LLM](#watermarking-llm)
 - [Multi-Modal Models](#multi-modal-models)
   - [Foundation Multi-Modal Models](#foundation-multi-modal-models)
+  - [Multi-Modal Safety](#multi-modal-safety)
+  - [VLM Hullucinations](#vlm-hullucinations)
+  - [VLM Privacy](#vlm-privacy)
 - [Agent](#agent)
 - [Useful Resource](#useful-resource)
 
@@ -94,9 +97,12 @@ A paper list about large language models and multi-modal models.
 - LLaVA: **Visual Instruction Tuning**. NeurIPS'2022. [paper](https://arxiv.org/abs/2304.08485)
 - BLIP: **BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation**. ICML'2022. [paper](https://arxiv.org/abs/2201.12086)
 - BLIP2: **BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models**. ICML'2023. [paper](https://arxiv.org/abs/2301.12597)
-### Safe T2I Generation:
+### Multi-modal Safety
 - SLD: **Safe Latent Diffusion: Mitigating Inappropriate Degeneration in Diffusion Models**. CVPR'2023. [paper](https://arxiv.org/abs/2211.05105)
 - ESD: **Erasing Concepts from Diffusion Models**. ICCV'2023. [paper](https://arxiv.org/abs/2303.07345)
+### VLM Hullucinatins
+### VLM Privacy
+
 ### Prompt Engineering in VLM
 
 ---
