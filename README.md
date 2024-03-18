@@ -94,13 +94,15 @@ A paper list about large language models and multi-modal models.
 - DeCLIP: **Supervision Exists Everywhere: A Data Efficient Contrastive Language-Image Pre-training Paradigm**. ICLR'2022. [paper](https://arxiv.org/abs/2110.05208)
 - FILIP: **FILIP: Fine-grained Interactive Language-Image Pre-Training**. ICLR'2022. [paper](https://arxiv.org/abs/2111.07783)
 - Stable Diffusion: **High-Resolution Image Synthesis with Latent Diffusion Models**. CVPR'2022. [paper](https://arxiv.org/abs/2112.10752)
-- LLaVA: **Visual Instruction Tuning**. NeurIPS'2022. [paper](https://arxiv.org/abs/2304.08485)
 - BLIP: **BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation**. ICML'2022. [paper](https://arxiv.org/abs/2201.12086)
 - BLIP2: **BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models**. ICML'2023. [paper](https://arxiv.org/abs/2301.12597)
+- LLaVA: **Visual Instruction Tuning**. NeurIPS'2023. [paper](https://arxiv.org/abs/2304.08485)
+- Instruct BLIP: **InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning**. NeurIPS'2023. [paper](https://arxiv.org/abs/2305.06500)
 ### Multi-modal Safety
 - SLD: **Safe Latent Diffusion: Mitigating Inappropriate Degeneration in Diffusion Models**. CVPR'2023. [paper](https://arxiv.org/abs/2211.05105)
 - ESD: **Erasing Concepts from Diffusion Models**. ICCV'2023. [paper](https://arxiv.org/abs/2303.07345)
 ### VLM Hullucinatins
+- POPE: **Evaluating Object Hallucination in Large Vision-Language Models**. EMNLP'2023. [paper](https://arxiv.org/abs/2305.10355)
 ### VLM Privacy
 
 ### Prompt Engineering in VLM
