@@ -111,6 +111,12 @@ A paper list about large language models and multi-modal models.
 ---
 
 ## Agent
+### LLM-based Agent
+- Stanford Town: **Generative Agents: Interactive Simulacra of Human Behavior.**  UIST'2023. [paper](https://arxiv.org/abs/2304.03442)
+
+
+### VLM-based Agent
+-OSWorld: **OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments**  Arxiv'2024. [paper](https://arxiv.org/abs/2404.07972)
 
 ---
 ## Useful-Resource
