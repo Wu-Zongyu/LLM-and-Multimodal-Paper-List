@@ -17,6 +17,8 @@ A paper list about large language models and multi-modal models.
   - [VLM Hullucinations](#vlm-hullucinations)
   - [VLM Privacy](#vlm-privacy)
 - [Agent](#agent)
+  - [LLM-based Agent](#llm-based-agent)
+  - [VLM-based Agent](#vlm-based-agent)
 - [Useful Resource](#useful-resource)
 
 ## Survey
@@ -116,7 +118,7 @@ A paper list about large language models and multi-modal models.
 
 
 ### VLM-based Agent
--OSWorld: **OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments**  Arxiv'2024. [paper](https://arxiv.org/abs/2404.07972)
+- OSWorld: **OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments**  Arxiv'2024. [paper](https://arxiv.org/abs/2404.07972)
 
 ---
 ## Useful-Resource
