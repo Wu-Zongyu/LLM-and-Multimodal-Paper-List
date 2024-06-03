@@ -106,6 +106,8 @@ A paper list about large language models and multi-modal models.
 - ESD: **Erasing Concepts from Diffusion Models**. ICCV'2023. [paper](https://arxiv.org/abs/2303.07345)
 ### VLM Hullucinatins
 - POPE: **Evaluating Object Hallucination in Large Vision-Language Models**. EMNLP'2023. [paper](https://arxiv.org/abs/2305.10355)
+- **HallusionBench: An Advanced Diagnostic Suite for Entangled Language Hallucination and Visual Illusion in Large Vision-Language Models**. CVPR'2024. [paper](https://arxiv.org/abs/2310.14566)
+- 
 ### VLM Privacy
 
 ### Prompt Engineering in VLM
