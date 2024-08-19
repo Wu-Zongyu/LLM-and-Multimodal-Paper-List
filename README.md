@@ -100,7 +100,10 @@ A paper list about large language models and multi-modal models.
 - BLIP2: **BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models**. ICML'2023. [paper](https://arxiv.org/abs/2301.12597)
 - LLaMA-Adapter: **LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention**. Arxiv'2023. [paper](https://arxiv.org/abs/2303.16199)
 - LLaVA: **Visual Instruction Tuning**. NeurIPS'2023. [paper](https://arxiv.org/abs/2304.08485)
+- LLaVA 1.5: **Improved Baselines with Visual Instruction Tuning**. CVPR'2024. [paper](https://arxiv.org/abs/2310.03744)
 - Instruct BLIP: **InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning**. NeurIPS'2023. [paper](https://arxiv.org/abs/2305.06500)
+- InternVL 1.0: **InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks**. CVPR'2024 (Oral). [paper](https://arxiv.org/abs/2312.14238)
+- InternVL 1.5: **How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal Models with Open-Source Suites**. Arxiv'2024. [Tech Report](https://arxiv.org/abs/2312.14238)
 ### Multi-modal Safety
 - SLD: **Safe Latent Diffusion: Mitigating Inappropriate Degeneration in Diffusion Models**. CVPR'2023. [paper](https://arxiv.org/abs/2211.05105)
 - ESD: **Erasing Concepts from Diffusion Models**. ICCV'2023. [paper](https://arxiv.org/abs/2303.07345)
