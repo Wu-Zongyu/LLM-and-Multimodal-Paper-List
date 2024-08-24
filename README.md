@@ -13,9 +13,10 @@ A paper list about large language models and multi-modal models.
   - [Watermarking LLM](#watermarking-llm)
 - [Multi-Modal Models](#multi-modal-models)
   - [Foundation Multi-Modal Models](#foundation-multi-modal-models)
-  - [Multi-Modal Safety](#multi-modal-safety)
-  - [VLM Hullucinations](#vlm-hullucinations)
-  - [VLM Privacy](#vlm-privacy)
+  - [T2I Safety](#t2i-safety)
+  - [LVLM Adversarial Attack](#lvlm-adversarial-attack)
+  - [LVLM Hullucinations](#lvlm-hullucinations)
+  - [LVLM Privacy](#lvlm-privacy)
 - [Agent](#agent)
   - [LLM-based Agent](#llm-based-agent)
   - [VLM-based Agent](#vlm-based-agent)
@@ -111,7 +112,7 @@ A paper list about large language models and multi-modal models.
 - POPE: **Evaluating Object Hallucination in Large Vision-Language Models**. EMNLP'2023. [paper](https://arxiv.org/abs/2305.10355)
 - **HallusionBench: An Advanced Diagnostic Suite for Entangled Language Hallucination and Visual Illusion in Large Vision-Language Models**. CVPR'2024. [paper](https://arxiv.org/abs/2310.14566)
 
-### LVLM Adversarial (Evasion) Attack
+### LVLM Adversarial Attack
 - **On the Adversarial Robustness of Multi-Modal Foundation Models**. ICCV Workshop'2023. [paper](https://openaccess.thecvf.com/content/ICCV2023W/AROW/papers/Schlarmann_On_the_Adversarial_Robustness_of_Multi-Modal_Foundation_Models_ICCVW_2023_paper.pdf)
 ### LVLM Privacy
 
