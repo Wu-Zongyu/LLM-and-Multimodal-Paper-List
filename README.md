@@ -104,14 +104,16 @@ A paper list about large language models and multi-modal models.
 - Instruct BLIP: **InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning**. NeurIPS'2023. [paper](https://arxiv.org/abs/2305.06500)
 - InternVL 1.0: **InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks**. CVPR'2024 (Oral). [paper](https://arxiv.org/abs/2312.14238)
 - InternVL 1.5: **How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal Models with Open-Source Suites**. Arxiv'2024. [Tech Report](https://arxiv.org/abs/2312.14238)
-### Multi-modal Safety
+### T2I Safety
 - SLD: **Safe Latent Diffusion: Mitigating Inappropriate Degeneration in Diffusion Models**. CVPR'2023. [paper](https://arxiv.org/abs/2211.05105)
 - ESD: **Erasing Concepts from Diffusion Models**. ICCV'2023. [paper](https://arxiv.org/abs/2303.07345)
-### VLM Hullucinatins
+### LVLM Hullucinatins
 - POPE: **Evaluating Object Hallucination in Large Vision-Language Models**. EMNLP'2023. [paper](https://arxiv.org/abs/2305.10355)
 - **HallusionBench: An Advanced Diagnostic Suite for Entangled Language Hallucination and Visual Illusion in Large Vision-Language Models**. CVPR'2024. [paper](https://arxiv.org/abs/2310.14566)
-- 
-### VLM Privacy
+
+### LVLM Adversarial (Evasion) Attack
+- **On the Adversarial Robustness of Multi-Modal Foundation Models**. ICCV Workshop'2023. [paper](https://openaccess.thecvf.com/content/ICCV2023W/AROW/papers/Schlarmann_On_the_Adversarial_Robustness_of_Multi-Modal_Foundation_Models_ICCVW_2023_paper.pdf)
+### LVLM Privacy
 
 ### Prompt Engineering in VLM
 
