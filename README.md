@@ -23,6 +23,7 @@ A paper list about large language models and multi-modal models.
 - [Useful Resource](#useful-resource)
 
 ## Survey
+- LVLM Attack Survey: **A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends**. Arxiv'2024. [[paper](https://arxiv.org/abs/2407.07403)], [[github](https://github.com/liudaizong/Awesome-LVLM-Attack)]
 - HELM: **Holistic evaluation of language models**. TMLR. [paper](https://arxiv.org/abs/2211.09110)
 - HEIM: **Holistic Evaluation of Text-to-Image Models**. NeurIPS'2023. [paper](https://arxiv.org/abs/2311.04287)
 - Eval Survey: **A Survey on Evaluation of Large Language Models**. Arxiv'2023. [paper](https://arxiv.org/abs/2307.03109)
@@ -108,7 +109,8 @@ A paper list about large language models and multi-modal models.
 ### T2I Safety
 - SLD: **Safe Latent Diffusion: Mitigating Inappropriate Degeneration in Diffusion Models**. CVPR'2023. [paper](https://arxiv.org/abs/2211.05105)
 - ESD: **Erasing Concepts from Diffusion Models**. ICCV'2023. [paper](https://arxiv.org/abs/2303.07345)
-### LVLM Hullucinatins
+  
+### LVLM Hallucinations
 - POPE: **Evaluating Object Hallucination in Large Vision-Language Models**. EMNLP'2023. [paper](https://arxiv.org/abs/2305.10355)
 - **HallusionBench: An Advanced Diagnostic Suite for Entangled Language Hallucination and Visual Illusion in Large Vision-Language Models**. CVPR'2024. [paper](https://arxiv.org/abs/2310.14566)
 
