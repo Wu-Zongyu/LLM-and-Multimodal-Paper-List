@@ -56,12 +56,14 @@ A paper list about large language models and multi-modal models.
 - LLaMA: **LLaMA: Open and Efficient Foundation Language Models**. Arxiv'2023. [paper](https://arxiv.org/abs/2302.13971)
 - GPT-4: **GPT-4 Technical Report**. Arxiv'2023. [paper]([http://arxiv.org/abs/2303.08774v2](https://arxiv.org/abs/2303.08774v4))
 - PaLM 2: **PaLM 2 Technical Report**. 2023. [paper](https://arxiv.org/abs/2305.10403)
-- LLaMA 2: **Llama 2: Open foundation and fine-tuned chat models**. Arxiv'2023. [paper](https://arxiv.org/abs/2307.09288)
+- Llama 2: **Llama 2: Open foundation and fine-tuned chat models**. Arxiv'2023. [paper](https://arxiv.org/abs/2307.09288)
 - Mistral: **Mistral 7B**. Arxiv'2023. [paper](https://arxiv.org/abs/2310.06825)
 - Phi1: [Project Link](https://huggingface.co/microsoft/phi-1)
 - Phi1.5: [Project Link](https://huggingface.co/microsoft/phi-1_5)
 - Phi2: [Project Link](https://huggingface.co/microsoft/phi-2)
 - Falcon: [Project Link](https://huggingface.co/tiiuae)
+- Llama 3: **The Llama 3 Herd of Models**. Arxiv'2024. [paper](https://arxiv.org/abs/2407.21783)
+  
 ### RLHF 
 - PPO: **Proximal Policy Optimization Algorithms**. Arxiv'2017. [paper](https://arxiv.org/abs/1707.06347)
 - DPO: **Direct Preference Optimization: Your Language Model is Secretly a Reward Model**. NeurIPS'2023. [paper](https://arxiv.org/abs/2305.18290)
@@ -106,9 +108,12 @@ A paper list about large language models and multi-modal models.
 - Instruct BLIP: **InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning**. NeurIPS'2023. [paper](https://arxiv.org/abs/2305.06500)
 - InternVL 1.0: **InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks**. CVPR'2024 (Oral). [paper](https://arxiv.org/abs/2312.14238)
 - InternVL 1.5: **How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal Models with Open-Source Suites**. Arxiv'2024. [Tech Report](https://arxiv.org/abs/2312.14238)
-### T2I Safety
+### T2I Concept Removal/Safety
 - SLD: **Safe Latent Diffusion: Mitigating Inappropriate Degeneration in Diffusion Models**. CVPR'2023. [paper](https://arxiv.org/abs/2211.05105)
 - ESD: **Erasing Concepts from Diffusion Models**. ICCV'2023. [paper](https://arxiv.org/abs/2303.07345)
+- UCE: **Unified Concept Editing in Diffusion Models**. Arxiv'2023. [paper](https://arxiv.org/abs/2308.14761)
+- POSI: **Universal Prompt Optimizer for Safe Text-to-Image Generation**. NAACL'2024. [paper](https://arxiv.org/pdf/2402.10882)
+- Meta-Unlearn: **Meta-Unlearning on Diffusion Models: Preventing Relearning Unlearned Concepts**. Arxiv'2024. [paper](https://arxiv.org/abs/2410.12777)
   
 ### LVLM Hallucinations
 - POPE: **Evaluating Object Hallucination in Large Vision-Language Models**. EMNLP'2023. [paper](https://arxiv.org/abs/2305.10355)
