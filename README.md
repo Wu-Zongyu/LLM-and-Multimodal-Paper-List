@@ -17,6 +17,7 @@ A paper list about large language models and multi-modal models.
   - [LVLM Adversarial Attack](#lvlm-adversarial-attack)
   - [LVLM Hullucinations](#lvlm-hullucinations)
   - [LVLM Privacy](#lvlm-privacy)
+- [AI4Science](#ai-for-science)
 - [Agent](#agent)
   - [LLM-based Agent](#llm-based-agent)
   - [VLM-based Agent](#vlm-based-agent)
@@ -123,8 +124,11 @@ A paper list about large language models and multi-modal models.
 - **On the Adversarial Robustness of Multi-Modal Foundation Models**. ICCV Workshop'2023. [paper](https://openaccess.thecvf.com/content/ICCV2023W/AROW/papers/Schlarmann_On_the_Adversarial_Robustness_of_Multi-Modal_Foundation_Models_ICCVW_2023_paper.pdf)
 ### LVLM Privacy
 
+
 ### Prompt Engineering in VLM
 
+## AI for Science
+- GALLON: **LLM and GNN are Complementary: Distilling LLM for Multimodal Graph Learning**. Arxiv 2024. [paper](https://arxiv.org/pdf/2406.01032)
 ---
 
 ## Agent
