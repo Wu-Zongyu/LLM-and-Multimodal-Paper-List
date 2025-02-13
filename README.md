@@ -102,9 +102,11 @@ This repo contains papers and relevant resources about large language models and
 - DeCLIP: **Supervision Exists Everywhere: A Data Efficient Contrastive Language-Image Pre-training Paradigm**. ICLR'2022. [Paper](https://arxiv.org/pdf/2110.05208)
 - FILIP: **FILIP: Fine-grained Interactive Language-Image Pre-Training**. ICLR'2022. [Paper](https://arxiv.org/pdf/2111.07783)
 - Stable Diffusion: **High-Resolution Image Synthesis with Latent Diffusion Models**. CVPR'2022. [Paper](https://arxiv.org/pdf/2112.10752)
-- BLIP: **BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation**. ICML'2022. [Paper](https://arxiv.org/pdf/2201.12086)
+- **BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation**. ICML'2022. [Paper](https://arxiv.org/pdf/2201.12086)
 - BLIP2: **BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models**. ICML'2023. [Paper](https://arxiv.org/pdf/2301.12597)
-- LLaMA-Adapter: **LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention**. Arxiv'2023. [Paper](https://arxiv.org/pdf/2303.16199)
+- **LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention**. ICLR'2024. [Paper](https://arxiv.org/pdf/2303.16199)
+- **Llama-adapter v2: Parameter-efficient visual instruction model**. arXiv'2023. [Paper](https://arxiv.org/pdf/2304.15010)
+
 - LLaVA: **Visual Instruction Tuning**. NeurIPS'2023. [Paper](https://arxiv.org/pdf/2304.08485)
 - LLaVA 1.5: **Improved Baselines with Visual Instruction Tuning**. CVPR'2024. [Paper](https://arxiv.org/pdf/2310.03744)
 - Instruct BLIP: **InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning**. NeurIPS'2023. [Paper](https://arxiv.org/pdf/2305.06500)
