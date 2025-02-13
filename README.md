@@ -124,7 +124,8 @@ This repo contains papers and relevant resources about large language models and
 ### LVLM Adversarial Attack
 - **On the Adversarial Robustness of Multi-Modal Foundation Models**. ICCV Workshop'2023. [Paper](https://openaccess.thecvf.com/content/ICCV2023W/AROW/Papers/Schlarmann_On_the_Adversarial_Robustness_of_Multi-Modal_Foundation_Models_ICCVW_2023_Paper.pdf)
 ### LVLM Privacy
-
+- **Does CLIP Know My Face?** Journal of Artificial Intelligence Research. [Paper](https://arxiv.org/pdf/2209.07341)
+- **Membership Inference Attacks against Large Vision-Language Models**. [Paper](https://arxiv.org/pdf/2411.02902)
 
 ### Prompt Engineering in VLM
 
